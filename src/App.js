@@ -28,7 +28,7 @@ function App() {
         })}
       </ul>
 
-      <h1>My GitHub Repositries</h1>
+      <h1>My GitHub Repositries..!</h1>
     </div>
   );
 }
